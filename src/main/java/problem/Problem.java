@@ -1,5 +1,6 @@
 package main.java.problem;
 
+import javax.media.opengl.GL2;
 import java.awt.geom.Path2D;
 import java.io.File;
 import java.io.FileWriter;
@@ -7,8 +8,6 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Scanner;
-
-import javax.media.opengl.GL2;
 
 
 public class Problem {
@@ -25,7 +24,7 @@ public class Problem {
     /**
      * заголовок окна
      */
-    public static final String PROBLEM_CAPTION = "Итоговый проект ученика ??????";
+    public static final String PROBLEM_CAPTION = "Итоговый проект  ученицы 10-1 Кузьмичевой Марии";
 
     /**
      * путь к файлу
